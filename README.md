@@ -1,4 +1,4 @@
-# New Project
+# Svelte-Tailwind-Snowpack
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
